@@ -17,6 +17,10 @@ public class Manual {
         My classname was Manual before
         I changed it with Manualtopics
          */
+        System.out.println("Manual testing will never die");
+        System.out.println("every software must be tested manually before is going to be live");
+        System.out.println("Revision is mandatory for manual as well");
+        
     }
 
 }
